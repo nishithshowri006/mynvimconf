@@ -1,8 +1,8 @@
 # kickstart.nvim
 ## IN LINUX MY SETUP
 ```
-mkdir ~.config/nvim
-git clone https://github.com/nishithshowri006/mynvimconf.git ~.config/nvim/
+mkdir ~/.config/nvim
+git clone https://github.com/nishithshowri006/mynvimconf.git ~/.config/nvim/
 ```
 ## Introduction
 
