@@ -4,6 +4,12 @@
 mkdir ~/.config/nvim
 git clone https://github.com/nishithshowri006/mynvimconf.git ~/.config/nvim/
 ```
+
+## IN WINDOWS MY SETUP
+```
+mkdir `%localappdata%\nvim\
+git clone https://github.com/nishithshowri006/mynvimconf.gi %localappdata%\nvim\
+```
 ## Introduction
 
 A starting point for Neovim that is:
