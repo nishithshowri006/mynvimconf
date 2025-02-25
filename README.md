@@ -8,7 +8,7 @@ git clone https://github.com/nishithshowri006/mynvimconf.git ~/.config/nvim/
 ## IN WINDOWS MY SETUP
 ```
 mkdir `%localappdata%\nvim\
-git clone https://github.com/nishithshowri006/mynvimconf.gi %localappdata%\nvim\
+git clone https://github.com/nishithshowri006/mynvimconf.git %localappdata%\nvim\
 ```
 ## Introduction
 
